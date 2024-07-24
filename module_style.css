@@ -1,0 +1,77 @@
+.App   {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .MainRow   {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 80%;
+  }
+  
+  .BorderedDiv {
+    border-radius: 10px;
+    background: #fffaf0;
+  }
+  
+  .GraphCell {
+    border: black;
+    border-radius: 10px;
+    background-color: #ebf2fa;
+    position: fixed;
+    left: 15%;
+    top: 1%;
+    width: 62%;
+    height: 98%;
+  }
+  
+  .ToolCell   {
+    border-radius: 10px;
+    background-color: #ebf2fa;
+    position: fixed;
+    left: 1%;
+    top: 1%;
+    width: 12%;
+    height: 87%;
+  }
+  
+  .TaskCellGraph  {
+    border-radius: 10px;
+    background-color: #ebf2fa;
+    position: fixed;
+    left: 79%;
+    top: 20%;
+    width: 20%;
+    height: 79%;
+  }
+
+  .TaskCell {
+    border-radius: 10px;
+    background-color: #ebf2fa;
+    position: fixed;
+    left: 79%;
+    top: 1%;
+    width: 20%;
+    height: 98%;
+  }
+
+    .TaskCell p {
+        margin-left: 2%
+    }
+
+  .LeftBottom   {
+    border-radius: 10px;
+    border-color: black;
+    background-color: #ebf2fa;
+    position: fixed;
+    left: 1%;
+    top: 89%;
+    width: 12%;
+    height: 10%;
+    text-align: center;
+  }
