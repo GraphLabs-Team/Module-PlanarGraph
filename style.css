@@ -57,12 +57,8 @@
     left: 79%;
     top: 1%;
     width: 20%;
-    height: 98%;
+    height: 42%;
   }
-
-    .TaskCell p {
-        margin-left: 2%
-    }
 
   .LeftBottom   {
     border-radius: 10px;
@@ -75,3 +71,48 @@
     height: 10%;
     text-align: center;
   }
+  
+  /* table {
+    margin: 10% 5%;
+    width: 90%;
+    border-collapse: collapse;
+    text-align: center;
+    border: 2px solid #dddddd;
+  }
+  td {
+    text-align: center;
+    border: 5px solid #dddddd;
+  }
+  th {
+    text-align: center;
+    border: 5px solid white;
+  } */
+  /* table {
+    margin: 10% auto;
+    width: 80%;
+    border-collapse: collapse;
+    border: 2px solid #78c7ff;
+    border-radius: 10px;
+  } */
+  
+  /* td, th {
+    padding: 10px;
+    border: 2px solid #78c7ff;
+  }
+  
+  th {
+    background-color: #d1e8ff;
+  }
+  
+  td:not(:last-child), th:not(:last-child) {
+    border-right: 1px solid #78c7ff;
+  }
+  
+  tr:not(:last-child) td, tr:not(:last-child) th {
+    border-bottom: 1px solid #78c7ff;
+  }
+  
+  tr:first-child td, tr:first-child th {
+    border-top: 1px solid #78c7ff;
+  } */
+  
